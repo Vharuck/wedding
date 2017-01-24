@@ -14,8 +14,11 @@ $13 for a year. This is ours. Probably could've picked a better one.
 
 ## Question
 
-**Would you rather have ShuppWerthWedding.com or wedding.nathanwerth.com?**
+Which domain would you rather use?
 
-I'm thinking of registering nathanwerth.com for future work, so it dovetails
+-   ShuppWerthWedding.com
+-   wedding.nathanwerth.com
+
+I'm thinking of registering `nathanwerth.com` for future work, so it dovetails
 with that. But it's your wedding more than mine, according to our princess bride
 culture, so I wanted you in the name.
