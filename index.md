@@ -1,16 +1,6 @@
 ---
-output: html_document
 title: "Shupp and Werth Wedding"
-pages:
-    -   href: index.html
-        name: ""
-        image: resources/img/bookring.jpg
-    -   href: lacey.html
-        name: "Lacey Shupp"
-    -   href: nathan.html
-        name: "Nathan Werth"
-    -   href: life.html
-        name: "Life so far"
+output: html_document
 ---
 
 # Celebrate with us
