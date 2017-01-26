@@ -1,0 +1,14 @@
+name: "laceynathanwedding"
+navbar:
+    title: "Lacey and Nathan Wedding"
+    type: inverse
+    left:
+        -   text: ""
+            href: index.html
+            icon: glyphicons-ring
+        -   text: "Lacey Shupp"
+            href: lacey.html
+        -   text: "Nathan Werth"
+            href: nathan.html
+        -   text: "Life so far"
+            href: life.html
