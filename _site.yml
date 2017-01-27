@@ -1,4 +1,5 @@
 name: "laceynathanwedding"
+output_dir: "docs"
 navbar:
     title: "Lacey and Nathan Wedding"
     type: inverse
