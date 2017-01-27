@@ -1,0 +1,8 @@
+---
+title: "Lacey Jane Shupp"
+output: html_document
+---
+
+<img src="resources/img/lacey-mugshot"
+
+Lacey Shupp was born the 28th of May, 1985, to James and Melissa Shupp.
