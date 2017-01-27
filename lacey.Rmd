@@ -3,6 +3,6 @@ title: "Lacey Jane Shupp"
 output: html_document
 ---
 
-<img src="resources/img/lacey-mugshot"
+`r top_level_image('lacey-mugshot.jpg', 'Lacey Jane Shupp')`
 
 Lacey Shupp was born the 28th of May, 1985, to James and Melissa Shupp.
