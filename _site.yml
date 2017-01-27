@@ -13,3 +13,6 @@ navbar:
             href: nathan.html
         -   text: "Life so far"
             href: life.html
+output:
+    html_document:
+        theme: cerulean

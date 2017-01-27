@@ -1,6 +1,5 @@
 ---
 title: "Wedding of Genres"
-output: html_document
 ---
 
 
