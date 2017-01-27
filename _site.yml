@@ -1,5 +1,6 @@
 name: "laceynathanwedding"
 output_dir: "docs"
+include: CNAME
 navbar:
     title: "Lacey and Nathan Wedding"
     type: inverse
