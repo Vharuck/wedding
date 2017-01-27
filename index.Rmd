@@ -3,6 +3,23 @@ title: "Wedding of Genres"
 output: html_document
 ---
 
+
+```{r setup, include=FALSE, message=FALSE}
+library(knitr)
+library(htmltools)
+
+opts_chunk$set(message = FALSE)
+
+# Convenience functions
+top_level_image <- function(img_name, img_title) {
+    img(src = paste0('resources/img/', img_name),
+        title = img_title,
+        width = '640px')
+}
+```
+
+`r top_level_image('bookring.jpg', 'As from a fairytale')`
+
 On the seventh of October, 2017, your witness is requested for the marriage of
 
 ```{block, type='fancy'}
