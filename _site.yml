@@ -14,6 +14,10 @@ navbar:
             href: nathan.html
         -   text: "Life so far"
             href: life.html
+        -   text: "Details"
+            href: details.html
+        -   text: "Gifts"
+            href: gifts.html
 output:
     html_document:
         theme: cerulean
