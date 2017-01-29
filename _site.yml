@@ -10,14 +10,19 @@ navbar:
             icon: fa-book
         -   text: "Lacey"
             href: lacey.html
+            icon: fa-star-o
         -   text: "Nathan"
             href: nathan.html
+            icon: fa-gamepad
         -   text: "Life so far"
             href: life.html
+            icon: fa-heart
         -   text: "Details"
             href: details.html
+            icon: fa-info-circle
         -   text: "Gifts"
             href: gifts.html
+            icon: fa-gift
 output:
     html_document:
         theme: cerulean
