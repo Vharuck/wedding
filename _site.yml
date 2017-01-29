@@ -5,12 +5,12 @@ navbar:
     title: "Lacey and Nathan Wedding"
     type: inverse
     left:
-        -   text: ""
+        -   text: "Home"
             href: index.html
             icon: glyphicons-ring
-        -   text: "Lacey Shupp"
+        -   text: "Lacey"
             href: lacey.html
-        -   text: "Nathan Werth"
+        -   text: "Nathan"
             href: nathan.html
         -   text: "Life so far"
             href: life.html
