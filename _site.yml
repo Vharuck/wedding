@@ -7,7 +7,7 @@ navbar:
     left:
         -   text: "Home"
             href: index.html
-            icon: glyphicons-ring
+            icon: fa-book
         -   text: "Lacey"
             href: lacey.html
         -   text: "Nathan"
