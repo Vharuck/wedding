@@ -2,7 +2,7 @@ name: "laceynathanwedding"
 output_dir: "docs"
 include: CNAME
 navbar:
-    title: "Lacey and Nathan Wedding"
+    title: "S & W"
     type: inverse
     left:
         -   text: "Home"
