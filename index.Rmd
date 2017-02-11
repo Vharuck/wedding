@@ -17,6 +17,16 @@ top_level_image <- function(img_name, img_title) {
         width = '640px'
     ))
 }
+
+dl <- tags$dl
+dt <- function(...) {
+    dotlist <- list(...)
+    dotlist$class <- paste(dotlist$class, 'text-primary')
+    do.call(tags$dt, dotlist)
+}
+dd <- tags$dd
+ul <- tags$ul
+li <- tags$li
 ```
 
 `r top_level_image('bookring.jpg', 'As from a fairytale')`
