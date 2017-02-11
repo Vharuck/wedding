@@ -3,4 +3,54 @@ title: 'Nathan Werth'
 output: html_document
 ---
 
-More to come!
+`r top_level_image('nathan.jpg', 'Nathaniel James Werth')`
+
+```{r list, echo=FALSE}
+opts_chunk$set(message = FALSE,
+               echo = FALSE)
+
+dl(
+    dt('Birthday'), dd(li(HTML('November 16, 1985 (&#x264F;)'))),
+    dt('Favorites'), dd(dl(
+        dt('Color'), dd(li('Dark gray')),
+        dt('Bands'), dd(ul(
+            li('Mountain Goats'),
+            li('Warren Zevon')
+        )),
+        dt('Meal'), dd(li('Spicy chicken curry')),
+        dt('Alcoholic drink'), dd(li('Pepsi & rum')),
+        dt('Non-alcoholic drink'), dd(li('Mint tea')),
+        dt('Candy'), dd(li('Rochere')),
+        dt('Story'), dd(li('Nyarlathotep')),
+        dt('Vacation spot'), dd(li('Bethany Beach')),
+        dt('Board game type'), dd(li('Strategy'))
+    )),
+    dt('Hobbies'), dd(ul(
+        li('Programming'),
+        li('Videogames'),
+        li('Keeping up with world news'),
+        li('Crosswords and puzzles')
+    )),
+    dt('Future sight'), dd('Data consultant living with Lacey in an older',
+                           'house with themed rooms'),
+    dt('Fears'), dd(ul(
+        li('Heights'),
+        li('Dying with no accomplishments or leaving a mark')
+    )),
+    dt('Cat person'), dd(ul(
+        li('Punky'),
+        li('Chloe')
+    )),
+    dt('Collects'), dd(ul(
+        li('Classic science stuff'),
+        li('Old scary stories'),
+        li('Math books'),
+        li('H.P. Lovecraft stuff')
+    )),
+    dt('Things he loves'), dd(ul(
+        li('Girl\'s laughter'),
+        li('Reading in bed when it\'s raining'),
+        li('Watching streamed movies with a chat room audience')
+    ))
+)
+```
