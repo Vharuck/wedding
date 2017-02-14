@@ -6,9 +6,6 @@ output: html_document
 `r top_level_image('nathan.jpg', 'Nathaniel James Werth')`
 
 ```{r list, echo=FALSE}
-opts_chunk$set(message = FALSE,
-               echo = FALSE)
-
 dl(
     class = 'bio-list',
     dt('Birthday'), dd(HTML('November 16, 1985 (&#x264F;)')),
