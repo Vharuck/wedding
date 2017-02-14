@@ -10,20 +10,21 @@ opts_chunk$set(message = FALSE,
                echo = FALSE)
 
 dl(
-    dt('Birthday'), dd(li(HTML('November 16, 1985 (&#x264F;)'))),
+    class = 'bio-list',
+    dt('Birthday'), dd(HTML('November 16, 1985 (&#x264F;)')),
     dt('Favorites'), dd(dl(
-        dt('Color'), dd(li('Dark gray')),
+        dt('Color'), dd('Dark gray'),
         dt('Bands'), dd(ul(
             li('Mountain Goats'),
             li('Warren Zevon')
         )),
-        dt('Meal'), dd(li('Spicy chicken curry')),
-        dt('Alcoholic drink'), dd(li('Pepsi & rum')),
-        dt('Non-alcoholic drink'), dd(li('Mint tea')),
-        dt('Candy'), dd(li('Rochere')),
-        dt('Story'), dd(li('Nyarlathotep')),
-        dt('Vacation spot'), dd(li('Bethany Beach')),
-        dt('Board game type'), dd(li('Strategy'))
+        dt('Meal'), dd('Spicy chicken curry'),
+        dt('Alcoholic drink'), dd('Pepsi & rum'),
+        dt('Non-alcoholic drink'), dd('Mint tea'),
+        dt('Candy'), dd('Rochere'),
+        dt('Story'), dd('Nyarlathotep'),
+        dt('Vacation spot'), dd('Bethany Beach'),
+        dt('Board game genre'), dd('Strategy')
     )),
     dt('Hobbies'), dd(ul(
         li('Programming'),
