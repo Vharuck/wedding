@@ -5,4 +5,68 @@ output: html_document
 
 `r top_level_image('lacey-mugshot.jpg', 'Lacey Jane Shupp')`
 
-Lacey Shupp was born the 28th of May, 1985, to James and Melissa Shupp.
+```{r lacey-list, echo=FALSE}
+dl(
+    class = 'bio-list',
+    dt('Birthday'), dd(HTML('May 28, 1985 (&#x264a;)')),
+    dt('Favorites'), dd(dl(
+        dt('Foods'), dd(ul(
+            li('Kani hiyashi'),
+            li('Mashed potatoes')
+        )),
+        dt('Shot'), dd('Abortion'),
+        dt('Wine'), dd('Moscato'),
+        dt('Vacation spot'), dd('Knoebels'),
+        dt('TV shows'), dd(ul(
+            li('The Walking Dead'),
+            li('Bones')
+        )),
+        dt('Snack'), dd('Fritos with queso dip'),
+        dt('Color'), dd('Blue green'),
+        dt('Band'), dd('Blink 182'),
+        dt('Animal'), dd('Octopus'),
+        dt('Holiday'), dd('Christmas'),
+        dt('Book'), dd('Harry Potter series'),
+        dt('Job'), dd('Nanny'),
+        dt('Board game genre'), dd('Ones she can win')
+    )),
+    dt('Childhood dream job'), dd('Veterinarian'),
+    dt('Hobbies'), dd(ul(
+        li('Reading'),
+        li('Cooking'),
+        li('Shopping'),
+        li('Napping')
+    )),
+    dt('Collects'), dd(ul(
+        li('Antique medicine bottles'),
+        li('Octopus stuff'),
+        li('Holiday Barbies')
+    )),
+    dt('Furthest travelled'), dd('Jamaica'),
+    dt('Would love to visit'), dd('Ireland'),
+    dt('Dog and cat person'), dd(ul(
+        li('Punky (cat)'),
+        li('Chloe (cat)'),
+        li('Scruffy (dog)')
+    )),
+    dt('Current job'), dd('Assistant Teacher for toddlers room at JCC'),
+    dt('Future hopes'), dd('Have a house with Nathan, travel, and stay a foodie.',
+                           tags$q('"Taste my way through travel"')),
+    dt('Fears'), dd(ul(
+        li('Teeth falling out'),
+        li('Poverty and debt')
+    )),
+    dt('Fortune teller training'), dd(ul(
+        li('Tarot'),
+        li('Palm reading')
+    )),
+    dt('Little things she loves'), dd(ul(
+        li('Babies\' laughter'),
+        li('Snuggling with puppies'),
+        li('Good meal with a friend'),
+        li('First sip of wine after a long day')
+    )),
+    dt('Schooling'),
+        dd('Culinary degree from Yorktown Business Institute, 2005')
+)
+```
