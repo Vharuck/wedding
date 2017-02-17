@@ -14,9 +14,13 @@ dl(
             li('Kani hiyashi'),
             li('Mashed potatoes')
         )),
-        dt('Shot'), dd('Abortion'),
+        dt('Shot'),
+            dd(a('Abortion',
+                 href='http://www.drinksmixer.com/drink7515.html')
+            ),
         dt('Wine'), dd('Moscato'),
-        dt('Vacation spot'), dd('Knoebels'),
+        dt('Vacation spot'),
+            dd(a('Knoebels', href = 'http://www.knoebels.com/')),
         dt('TV shows'), dd(ul(
             li('The Walking Dead'),
             li('Bones')
@@ -50,8 +54,10 @@ dl(
         li('Scruffy (dog)')
     )),
     dt('Current job'), dd('Assistant Teacher for toddlers room at JCC'),
-    dt('Future hopes'), dd('Have a house with Nathan, travel, and stay a foodie.',
-                           tags$q('"Taste my way through travel"')),
+    dt('Future hopes'),
+        dd('Have a house with Nathan, travel, and stay a foodie.',
+           tags$q('"Taste my way through travel"')
+        ),
     dt('Fears'), dd(ul(
         li('Teeth falling out'),
         li('Poverty and debt')

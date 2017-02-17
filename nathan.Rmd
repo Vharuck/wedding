@@ -19,7 +19,10 @@ dl(
         dt('Alcoholic drink'), dd('Pepsi & rum'),
         dt('Non-alcoholic drink'), dd('Mint tea'),
         dt('Candy'), dd('Rochere'),
-        dt('Story'), dd('Nyarlathotep'),
+        dt('Story'),
+            dd(a('Nyarlathotep',
+                 href = 'http://www.hplovecraft.com/writings/texts/fiction/n.aspx')
+            ),
         dt('Vacation spot'), dd('Bethany Beach'),
         dt('Board game genre'), dd('Strategy')
     )),
