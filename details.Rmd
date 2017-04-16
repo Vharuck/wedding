@@ -3,6 +3,8 @@ title: "Details"
 output: html_document
 ---
 
+`r top_level_image('fallen-tree-garden.jpg', 'Fallen Tree Farm')`
+
 ## Location
 
 [Fallen Tree Farm](http://www.fallentreefarm.com/)
