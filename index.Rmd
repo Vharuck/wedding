@@ -21,7 +21,8 @@ li <- tags$li
 
 ## A climactic event in two lives {.lead .text-center}
 
-On the seventh of October, 2017, your witness is requested for the marriage of
+On the seventh of October, 2017, at 4 PM your witness is requested for the
+marriage of
 <br>
 <br>
 Lacey Jane Shupp<br>
