@@ -13,7 +13,9 @@ dl(
         dt('Color'), dd('Dark gray'),
         dt('Bands'), dd(ul(
             li('Mountain Goats'),
-            li('Warren Zevon')
+            li('Warren Zevon'),
+            li('MF Doom'),
+            li('Ootsuki Kenji')
         )),
         dt('Meal'), dd('Spicy chicken curry'),
         dt('Alcoholic drink'), dd('Pepsi & rum'),
