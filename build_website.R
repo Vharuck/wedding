@@ -7,11 +7,12 @@ library(htmltools)
 opts_chunk$set(message = FALSE)
 
 # Convenience functions
-top_level_image <- function(img_name, img_title) {
+top_level_image <- function(img_name, img_title, ...) {
     as.character(img(
-        src = paste0('img/', img_name),
+        src   = paste0('img/', img_name),
         title = img_title,
-        width = '640px'
+        width = '640px',
+        ...
     ))
 }
 

@@ -2,7 +2,6 @@
 title: "Wedding of Genres"
 ---
 
-
 ```{r setup, include=FALSE, message=FALSE}
 library(knitr)
 library(htmltools)
@@ -18,14 +17,13 @@ ul <- tags$ul
 li <- tags$li
 ```
 
-`r top_level_image('bookring.jpg', 'As from a fairytale')`
+`r top_level_image('bookring.jpg', 'As from a fairytale', class = 'center-block')`
+
+## A climactic event in two lives {.lead .text-center}
 
 On the seventh of October, 2017, your witness is requested for the marriage of
-
-```{block, type='fancy'}
+<br>
+<br>
+Lacey Jane Shupp<br>
+&<br>
 Nathaniel James Werth
-
-&
-
-Lacey Jane Shupp
-```
