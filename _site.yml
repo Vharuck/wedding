@@ -25,5 +25,5 @@ navbar:
             icon: fa-gift
 output:
     html_document:
-        theme: cerulean
+        theme: yeti
         css: wedding.css
