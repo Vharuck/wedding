@@ -8,3 +8,10 @@ output: html_document
 ## Location
 
 [Fallen Tree Farm](http://www.fallentreefarm.com/)
+
+1634 Holly Pike, Carlisle, PA 17015
+
+## Time and date
+
+The ceremony will begin at 4 PM on October 7^th^, 2017. A cocktail reception
+will follow the ceremony at the same location.
