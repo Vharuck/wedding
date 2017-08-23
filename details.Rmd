@@ -5,6 +5,11 @@ output: html_document
 
 `r top_level_image('fallen-tree-garden.jpg', 'Fallen Tree Farm')`
 
+-   [Location](#location)
+-   [Time and date](#time-and-date)
+-   [Directions](#directions)
+-   [Hotels](#hotels)
+
 ## Location
 
 [Fallen Tree Farm](http://www.fallentreefarm.com/)
@@ -54,3 +59,42 @@ will follow the ceremony at the same location.
 -   Take exit 47A and merge onto PA-34 S (South Hanover St)
 -   Follow PA-34 S for 2.8 miles
 -   Turn right into the long driveway for Fallen Tree Farm
+
+## Hotels
+
+Due to other events in the area the same weekend, a block of rooms at a single
+hotel was not reserved. However, there are plenty of hotels nearby.
+
+### Days Inn Carlisle South
+
+[Website](https://www.wyndhamhotels.com/days-inn/carlisle-pennsylvania/days-inn-carlisle-south/overview)
+
+101 Alexander Spring Rd, Carlisle, PA 17015
+
+[(717) 258-4147](tel:1-717-258-4147)
+
+### Days Inn Carlisle North
+
+[Website](https://www.wyndhamhotels.com/days-inn/carlisle-pennsylvania/days-inn-carlisle-north/overview)
+
+1825 Harrisburg Pike , Carlisle, PA 17015
+
+[(717) 245-2242](tel:1-717-245-2242)
+
+### Best Western Carlisle
+
+[Website](https://www.bestwestern.com/en_US/book/hotel-details.39105.html)
+
+1155 Harrisburg Pike, Carlisle, PA 17013
+
+[(717) 243-6200](tel:1-717-243-6200)
+
+Toll-free: [1-800-780-7234](tel:1-800-780-7234)
+
+### Econo Lodge Carlisle
+
+[Website](https://www.choicehotels.com/pennsylvania/carlisle/econo-lodge-hotels/pa655)
+
+1252 Harrisburg Pike, Carlisle, PA 17013
+
+[(717) 243-8585](tel:1-717-243-8585)
