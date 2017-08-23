@@ -15,3 +15,33 @@ output: html_document
 
 The ceremony will begin at 4 PM on October 7^th^, 2017. A cocktail reception
 will follow the ceremony at the same location.
+
+## Directions
+
+### From Philadelphia
+
+-   Get onto I-76W towards Harrisburg
+-   Take exit 247 to merge onto I-283
+-   Use the left lane to take exit 3A onto I-83 S toward Harrisburg
+-   After the crossing the bridge over the Susquehanna, stay in the left lanes
+    to continue on PA-581 W
+-   Use the left lane to take exit 1B and merge onto I-81 S toward Carlisle
+-   Take exit 47A and merge onto PA-34 S (South Hanover St)
+-   Follow PA-34 S for 2.8 miles
+-   Turn right into the long driveway for Fallen Tree Farm
+
+### From Pittsburgh
+
+-   Get onto I-76 E towards Harrisburg
+-   Take exit 226 to merge onto US-11 N, toward I-81/Harrisburg
+-   Get onto I-81 S
+-   Take exit 47A and merge onto PA-34 S (South Hanover St)
+-   Follow PA-34 S for 2.8 miles
+-   Turn right into the long driveway for Fallen Tree Farm
+
+### From Scranton
+
+-   Get onto I-81 S
+-   Take exit 47A and merge onto PA-34 S (South Hanover St)
+-   Follow PA-34 S for 2.8 miles
+-   Turn right into the long driveway for Fallen Tree Farm
